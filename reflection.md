@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jacob VonTersch
+Sudent Email:  Jvonters@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,12 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+What did you learn?
+    In this assignment I learned my way around VS Code. I previously had VS Code but never really learned how to use it. I was forced to watch a few YT videos on the UI and how to change some of the settings like apperance.
+    Another thing I learned was how to use the debugg function. This was very easy and simple to use once I got it figured out. The step over is another tool I learned how to use. 
+What confuses you?
+    The github confuses me. I think I am doing it right by commiting my changes and syncing, but I dont really know my way around github and also how to use the classroom vs the actual github personal. As far as I know I am doing it right but I need to learn more in class about it.
+Where did you struggle?
+    I didnt really struggle with much it just took me awhile to find my way around github and VS Code but it was good for me to learn that way.
+Where might you need more practice?
+    I need more practice using these new apps. I have never used Github before or VS Code, but i need to learn so thats why I am taking this class.
